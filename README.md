@@ -1,0 +1,1 @@
+Resoluçao de alguns exercicios das listas da Python Brasil com algumas coisas extra alem do que � pedido no enunciado.
