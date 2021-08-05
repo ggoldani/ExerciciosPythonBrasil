@@ -1,4 +1,4 @@
-n1 = eval(input('Digite um numero: '))
-n2 = eval(input('Digite outro numero: '))
-soma = n1 + n2
-print(f'A soma dos numeros eh: {soma}')
+numero_1 = eval(input('Informe um numero: '))
+numero_2 = eval(input('Informe outro numero: '))
+soma = numero_1 + numero_2
+print(f'A some dos números informados é {soma}.')

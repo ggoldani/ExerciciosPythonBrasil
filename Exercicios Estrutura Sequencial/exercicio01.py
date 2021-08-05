@@ -1,2 +1,2 @@
 print('Hello World!')
-type('Hello World!')
+print(type('Hello World!'))
