@@ -14,7 +14,7 @@ custo_apenas_lata = quantidade_apenas_lata * custo_lata
 if quantidade_apenas_lata == 1:
     print(f'Usando apenas latas, será necessária {quantidade_apenas_lata} lata com custo de R${custo_apenas_lata:.2f}.')
 elif quantidade_apenas_lata > 1:
-    print(f'Usando apenas latas, será necessária {quantidade_apenas_lata} lata com custo de R${custo_apenas_lata:.2f}.')
+    print(f'Usando apenas latas, serão necessárias {quantidade_apenas_lata} lata com custo de R${custo_apenas_lata:.2f}.')
 
 quantidade_apenas_galao = math.ceil(litros / litro_galao)
 custo_apenas_galao = quantidade_apenas_galao * custo_galao
